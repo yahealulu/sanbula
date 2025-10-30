@@ -49,6 +49,7 @@ const Index = () => {
     "zouhier",
     "aghyad",
     "baraa",
+    "mumtaz keddah"
   ]);
   const [selectedPerson, setSelectedPerson] = useState<string>(persons[0]);
   const [orders, setOrders] = useState<PersonOrders>({});
